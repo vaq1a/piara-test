@@ -250,6 +250,7 @@ body.disableScroll {
     background-clip: text;
     white-space: nowrap;
     background-size: cover;
+    -webkit-box-decoration-break: clone;
 }
 
 .activity {
