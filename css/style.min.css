@@ -243,10 +243,11 @@ body.disableScroll {
     line-height: 119.8%;
     background-image: -o-linear-gradient(359.81deg,#FF2966 11.22%,#FF3750 26.02%,#FF9C40 50.66%,#FF6122 74.93%,#FF763F 74.93%);
     background-image: linear-gradient(90.19deg,#FF2966 11.22%,#FF3750 26.02%,#FF9C40 50.66%,#FF6122 74.93%,#FF763F 74.93%);
-    /*color: transparent;*/
+    color: transparent;
     -webkit-background-clip: text;
     background-clip: text;
     white-space: nowrap;
+    background-size: cover;
 }
 
 .activity {
