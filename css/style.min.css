@@ -238,6 +238,7 @@ body.disableScroll {
 }
 
 .title {
+    display: inline-block;
     font-family: 'Druk Cyr',sans-serif;
     font-size: 7.266rem;
     line-height: 119.8%;
